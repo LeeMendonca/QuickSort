@@ -1,4 +1,4 @@
-# 7 Maravilhas do Mundo — Quick Sort Interativo
+# 7 Maravilhas do Mundo Moderno — Quick Sort Interativo
 
 Uma aplicação desktop educativa que combina um jogo de ordenação cronológica com uma visualização animada do algoritmo **Quick Sort**, usando as 7 Maravilhas do Mundo Moderno como tema.
 
